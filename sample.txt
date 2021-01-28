@@ -1,2 +1,4 @@
 This is a short message
 This is some changes to this file.
+Why would you change this in two places.
+It will FAIL.
